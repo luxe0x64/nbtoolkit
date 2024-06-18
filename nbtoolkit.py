@@ -21,6 +21,7 @@ class QRCoder:
     pass
 
     def QRMake(self):
+        os.system('clear')
         os.system('cat qr_maker_banner.txt')
         self.URL = input("URL: ")
         qr = qrcode.QRCode(
