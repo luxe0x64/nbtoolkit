@@ -6,4 +6,4 @@ Usage:
 python3 nbtoolkit.py
 
 Authors:
-nobody3132 aka luxe0x64
+nobody3132 aka luxe0x64, ChatGPT debugged 1.0 Version
