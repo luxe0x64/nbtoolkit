@@ -215,7 +215,7 @@ class Toolkit:
                 self.update_system.check_for_root()
             elif choice == "5":
                 os.system('clear')
-                print("Quitting... ")
+                print("Closed. ")
                 exit()
             else:
                 print("Invalid choice. Please try again." + Fore.RED)
