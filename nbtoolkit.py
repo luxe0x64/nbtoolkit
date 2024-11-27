@@ -12,7 +12,7 @@ init()
 # previos version was debugged by ChatGPT
 # Version: 2.1
 # Thanks for using :-)
-# Date: 27.11.2024 Update: Added update function
+# Date: 27.11.2024 Update: Added custom function to set custom qrcode name
 
 
 # Clear screen function
