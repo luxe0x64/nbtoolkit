@@ -1,0 +1,6 @@
+colorama==0.4.6
+mimesis==18.0.0
+moviepy==2.1.2
+pyshorteners==1.0.1
+pytubefix==8.12.2
+qrcode==8.0
