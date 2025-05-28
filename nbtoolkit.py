@@ -31,8 +31,6 @@ class QRCoder:
     def __init__(self):
         self.current_dir = os.getcwd()
         self.path_qrcode_file = f"{self.current_dir}/.qrcode_choice.txt"
-        self.url = None
-        self.content = None
         os.system("ls -a")
         if os.path.exists(".qrcode_choice.txt"):
             if os.path.exists(self.path_qrcode_file):
