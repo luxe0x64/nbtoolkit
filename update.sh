@@ -6,7 +6,7 @@ try_to_update(){
 	sleep 0.3
 	check_for_updates=$(cat nbtoolkit.py | grep Version)
 
-	if [[ $check_for_updates == *"2.3" ]]; then
+	if [[ $check_for_updates == *"2.4" ]]; then
 		clear
 		touch .no_updates_required.txt && echo "No updates required. " > .no_updates_required.txt
 		echo "No updates required. "
