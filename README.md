@@ -15,3 +15,7 @@ have a nice day.
 Version: 2.3
 New functions, Another button in menu which allows you to run Nbconverter from the menu, renaming file function
 have anice day.
+
+Version: 2.4
+New script DownloadNConvert 03.08.2025
+It downloads and converts a video file into audio file. File saves as "converted.mp3" 
