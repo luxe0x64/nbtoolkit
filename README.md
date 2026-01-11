@@ -19,3 +19,6 @@ have anice day.
 # Version: 2.4
 New script DownloadNConvert 03.08.2025
 It downloads and converts a video file into audio file. File saves as "converted.mp3" 
+
+# Version 2.5
+Supports .mov files. 11.01.2026
