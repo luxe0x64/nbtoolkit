@@ -2,7 +2,7 @@
 
 # Made by: luxe0x64
 # for nbtoolkit
-# version: 2.5
+# version: 2.5.1
 
 check_ff() {
 	check=$(ls .a | grep ".no_updates_required.txt")
