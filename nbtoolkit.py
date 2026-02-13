@@ -13,7 +13,7 @@ init()
 
 # Created by: nobody3132 aka luxe0x64
 # previos version was debugged by ChatGPT
-# Version: 2.5
+# Version: 2.5.1
 # Thanks for using :-)
 # Date: 27.11.2024 Update: Added custom function to set custom qrcode name
 # Update Date: 28.03.2025 Added Youtube video download function. Added video converter to audio
