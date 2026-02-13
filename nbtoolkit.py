@@ -12,7 +12,7 @@ from colorama import init, Fore, Style
 init()
 
 # Created by: nobody3132 aka luxe0x64
-# previos version was debugged by ChatGPT
+# previos version were debugged by ChatGPT
 # Version: 2.5.1
 # Thanks for using :-)
 # Date: 27.11.2024 Update: Added custom function to set custom qrcode name
