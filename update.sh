@@ -19,7 +19,7 @@ try_to_update(){
 	sleep 0.3
 	check_for_updates=$(curl https://github.com/luxe0x64/nbtoolkit/blob/main/version.txt | grep "VERSION")
 
-	if [[ "$check_for_updates" =~ "2.5" ]]; then
+	if [[ "$check_for_updates" =~ "2.5.1" ]]; then
 		clear
 		touch .no_updates_required.txt && echo "No updates required. " > .no_updates_required.txt
 		echo "No updates required. "
