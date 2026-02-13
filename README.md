@@ -22,3 +22,6 @@ It downloads and converts a video file into audio file. File saves as "converted
 
 # Version: 2.5
 Supports .mov files. 11.01.2026
+
+# Version: 2.5.1
+MacOS support
